@@ -1,5 +1,5 @@
-# I'm Maarten - aka citharus
-I'm a student and äh thats all, I guess.
+# Hi, I'm Maarten - aka citharus
+I'm a student and ähm thats all, I guess.
 
 ## Programms & Tools
 [!<img align="left" alt="NeoVim" width="22px" src="https://simpleicons.org/icons/pycharm.svg" />][pycharm]
@@ -8,6 +8,8 @@ I'm a student and äh thats all, I guess.
 [!<img align="left" alt="NeoVim" width="22px" src="https://simpleicons.org/icons/git.svg" />][git]
 [!<img align="left" alt="NeoVim" width="22px" src="https://simpleicons.org/icons/python.svg" />][python]
 
+## Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=citharus&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [pycharm]: https://www.jetbrains.com/pycharm/
 [neovim]: https://neovim.io/
