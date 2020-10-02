@@ -12,7 +12,7 @@ I'm a student and ähm thats all, I guess.
 [<img align="left" alt="Python" width="22px" src="https://simpleicons.org/icons/python.svg" />][python]<br>
 
 ## Stats
-[![citharus](https://github-readme-stats.vercel.app/api?username=citharus&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![citharus](https://github-readme-stats.vercel.app/api?username=citharus&count_private=true&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [pycharm]: https://www.jetbrains.com/pycharm/
