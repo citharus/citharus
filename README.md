@@ -1,4 +1,4 @@
-# Hi, I'm Maarten - aka citharus
+# I'm Maarten - aka citharus
 I'm a student.
 
 🌱 I’m currently learning [Python](https://www.python.org/)  
