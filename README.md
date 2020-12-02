@@ -13,7 +13,7 @@ I'm a teenage student.
 
 ## Stats
 ![citharus](https://github-readme-stats.vercel.app/api?username=citharus&count_private=true&hide_border=true&show_icons=true&include_all_commits=true)
-
+![citharus](https://github-readme-stats.vercel.app/api/top-langs/?username=citharus&layout=compact&hide_border=true)
 
 [pycharm]: https://www.jetbrains.com/pycharm/
 [neovim]: https://neovim.io/
