@@ -1,5 +1,5 @@
 # I'm Maarten - aka citharus
-I'm a teenage student.
+I'm a student.
 
 🌱 I’m currently learning [Python](https://www.python.org/)  
 ⚡ I like going to the [Gym](https://en.wikipedia.org/wiki/Gym)
