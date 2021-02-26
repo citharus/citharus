@@ -8,7 +8,7 @@ I'm a student.
 [<img align="left" alt="Pycharm" width="22px" src="https://github.com/citharus/citharus/blob/main/pycharm.svg" />][pycharm]
 [<img align="left" alt="NeoVim" width="22px" src="https://github.com/citharus/citharus/blob/main/neovim.svg" />][neovim]
 [<img align="left" alt="Linux" width="22px" src="https://github.com/citharus/citharus/blob/main/linux.svg" />][linux]
-[<img align="left" alt="Git" width="22px" src="https://simpleicons.org/icons/git.svg" />][git]
+[<img align="left" alt="Git" width="22px" src="https://github.com/citharus/citharus/blob/main/git.svg" />][git]
 [<img align="left" alt="Python" width="22px" src="https://simpleicons.org/icons/python.svg" />][python]<br>
 
 ## Stats
