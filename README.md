@@ -10,6 +10,8 @@ I'm a student.
 [<img align="left" alt="Linux" width="32px" src="https://github.com/citharus/citharus/blob/main/linux.svg" />][linux]
 [<img align="left" alt="Git" width="32px" src="https://github.com/citharus/citharus/blob/main/git.svg" />][git]
 [<img align="left" alt="Python" width="32px" src="https://github.com/citharus/citharus/blob/main/python.svg" />][python]
+[<img align="left" alt="Python" width="32px" src="https://github.com/citharus/citharus/blob/main/html5.svg" />][html]
+[<img align="left" alt="Python" width="32px" src="https://github.com/citharus/citharus/blob/main/css3.svg" />][css]
 [<img align="left" alt="Python" width="32px" src="https://github.com/citharus/citharus/blob/main/github.svg" />][github]<br>
 
 ## Stats
@@ -22,3 +24,5 @@ I'm a student.
 [git]: https://git-scm.com/
 [python]: https://www.python.org/
 [github]: https://github.com/citharus/
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
