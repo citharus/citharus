@@ -9,7 +9,7 @@ I'm a student.
 [<img align="left" alt="NeoVim" width="22px" src="https://github.com/citharus/citharus/blob/main/neovim.svg" />][neovim]
 [<img align="left" alt="Linux" width="22px" src="https://github.com/citharus/citharus/blob/main/linux.svg" />][linux]
 [<img align="left" alt="Git" width="22px" src="https://github.com/citharus/citharus/blob/main/git.svg" />][git]
-[<img align="left" alt="Python" width="22px" src="https://simpleicons.org/icons/python.svg" />][python]<br>
+[<img align="left" alt="Python" width="22px" src="https://github.com/citharus/citharus/blob/main/python.svg" />][python]<br>
 
 ## Stats
 ![citharus](https://github-readme-stats.vercel.app/api?username=citharus&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&theme=nord)
