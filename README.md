@@ -5,7 +5,7 @@ I'm a student.
 ⚡ I like going to the [Gym](https://en.wikipedia.org/wiki/Gym)
 
 ## Programms & Tools
-[<img align="left" alt="Pycharm" width="22px" src="https://simpleicons.org/icons/pycharm.svg" />][pycharm]
+[<img align="left" alt="Pycharm" width="22px" src="https://github.com/citharus/citharus/blob/main/pycharm.svg" />][pycharm]
 [<img align="left" alt="NeoVim" width="22px" src="https://simpleicons.org/icons/neovim.svg" />][neovim]
 [<img align="left" alt="Linux" width="22px" src="https://simpleicons.org/icons/linux.svg" />][linux]
 [<img align="left" alt="Git" width="22px" src="https://simpleicons.org/icons/git.svg" />][git]
