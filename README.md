@@ -14,10 +14,13 @@ I'm a student.
 [<img align="left" alt="CSS3" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />][css]
 [<img align="left" alt="Github" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />][github]<br>
 
-## Stats
-![citharus](https://github-readme-stats-citharus.vercel.app/api?username=citharus&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&theme=nord)
-![citharus](https://github-readme-stats-citharus.vercel.app/api/top-langs/?username=citharus&layout=compact&hide_border=true&count_private=true&theme=nord)
+<details>
+  <summary>⚡️ Github stats</summary>
 
+  ![citharus](https://github-readme-stats-citharus.vercel.app/api?username=citharus&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&theme=nord)
+  ![citharus](https://github-readme-stats-citharus.vercel.app/api/top-langs/?username=citharus&layout=compact&hide_border=true&count_private=true&theme=nord)
+</details>
+ 
 [pycharm]: https://www.jetbrains.com/pycharm/
 [neovim]: https://neovim.io/
 [linux]: https://en.wikipedia.org/wiki/Linux/
