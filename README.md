@@ -6,6 +6,7 @@ from languages import Language ,Python, CSS3, HTML5, Markdown
 from programms import Programm, Pycharm, Neovim, Git, GitHub, Spotify, Linux
 from projects.github import Project, CPAW, Horarium, WhatShouldIRead, Dotfiles
 
+
 class Maarten(Human):
   def __init__(self) -> None:
     self.alias: str = "citharus"
