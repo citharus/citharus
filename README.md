@@ -13,7 +13,7 @@ I'm a student.
 [<img align="left" alt="HTML5" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />][css]
 [<img align="left" alt="Github" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />][github]<br>
-
+<hr>
 <details>
   <summary>⚡️ Github stats</summary>
 
