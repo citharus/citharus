@@ -5,14 +5,14 @@ I'm a student.
 ⚡ I like going to the [Gym](https://en.wikipedia.org/wiki/Gym)
 
 ## Programms & Tools
-[<img align="left" alt="Pycharm" width="26px" src="https://github.com/citharus/citharus/blob/main/pycharm.svg" />][pycharm]
-[<img align="left" alt="NeoVim" width="26px" src="https://github.com/citharus/citharus/blob/main/neovim.svg" />][neovim]
-[<img align="left" alt="Linux" width="26px" src="https://github.com/citharus/citharus/blob/main/linux.svg" />][linux]
-[<img align="left" alt="Git" width="26px" src="https://github.com/citharus/citharus/blob/main/git.svg" />][git]
-[<img align="left" alt="Python" width="26px" src="https://github.com/citharus/citharus/blob/main/python.svg" />][python]
-[<img align="left" alt="Python" width="26px" src="https://github.com/citharus/citharus/blob/main/html5.svg" />][html]
-[<img align="left" alt="Python" width="26px" src="https://github.com/citharus/citharus/blob/main/css3.svg" />][css]
-[<img align="left" alt="Python" width="26px" src="https://github.com/citharus/citharus/blob/main/github.svg" />][github]<br>
+[<img align="left" alt="Pycharm" width="26px" src="https://img.icons8.com/color/344/pycharm.png" />][pycharm]
+[<img align="left" alt="NeoVim" width="26px" src="https://raw.githubusercontent.com/xeho91/.dotfiles/main/Media/Icons/neovim.svg" />][neovim]
+[<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />][linux]
+[<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />][git]
+[<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />][python]
+[<img align="left" alt="HTML5" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />][html]
+[<img align="left" alt="CSS3" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />][css]
+[<img align="left" alt="Github" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />][github]<br>
 
 ## Stats
 ![citharus](https://github-readme-stats.vercel.app/api?username=citharus&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&theme=nord)
