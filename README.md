@@ -15,8 +15,8 @@ I'm a student.
 [<img align="left" alt="Github" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />][github]<br>
 
 ## Stats
-![citharus](https://github-readme-stats.vercel.app/api?username=citharus&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&theme=nord)
-![citharus](https://github-readme-stats.vercel.app/api/top-langs/?username=citharus&layout=compact&hide_border=true&count_private=true&theme=nord)
+![citharus](https://github-readme-stats-citharus.vercel.app/api?username=citharus&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&theme=nord)
+![citharus](https://github-readme-stats-citharus.vercel.app/api/top-langs/?username=citharus&layout=compact&hide_border=true&count_private=true&theme=nord)
 
 [pycharm]: https://www.jetbrains.com/pycharm/
 [neovim]: https://neovim.io/
