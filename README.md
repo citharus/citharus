@@ -15,7 +15,7 @@ I'm a student.
 ![](https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=1572B6&color=3B4252&logoColor=white&label=%20&style=for-the-badge)
 <hr>
 <details>
-  <summary>⚡️ Github stats</summary>
+  <summary>⚡️ Stats</summary>
 
   ![citharus](https://github-readme-stats-citharus.vercel.app/api?username=citharus&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&theme=nord)
   ![citharus](https://github-readme-stats-citharus.vercel.app/api/top-langs/?username=citharus&layout=compact&hide_border=true&count_private=true&theme=nord)
