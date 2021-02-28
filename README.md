@@ -5,14 +5,14 @@ I'm a student.
 ⚡ I like going to the [Gym](https://en.wikipedia.org/wiki/Gym)
 
 ## Programms & Tools
-[<img align="left" alt="Pycharm" width="26px" src="https://img.icons8.com/color/344/pycharm.png" />][pycharm]
-[<img align="left" alt="NeoVim" width="26px" src="https://raw.githubusercontent.com/xeho91/.dotfiles/main/Media/Icons/neovim.svg" />][neovim]
-[<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />][linux]
-[<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />][git]
-[<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />][python]
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />][css]
-[<img align="left" alt="Github" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />][github]<br>
+![](https://img.shields.io/static/v1?message=Pycharm&logo=pycharm&labelColor=black&color=3B4252&logoColor=white&label=%20&style=for-the-badge)
+![](https://img.shields.io/static/v1?message=Neovim&logo=neovim&labelColor=57A143&color=3B4252&logoColor=black&label=%20&style=for-the-badge)
+![](https://img.shields.io/static/v1?message=Linux&logo=linux&labelColor=FCC624&color=3B4252&logoColor=black&label=%20&style=for-the-badge)
+![](https://img.shields.io/static/v1?message=Git&logo=git&labelColor=F05032&color=3B4252&logoColor=white&label=%20&style=for-the-badge)
+![](https://img.shields.io/static/v1?message=GitHub&logo=github&labelColor=181717&color=3B4252&logoColor=white&label=%20&style=for-the-badge)
+![](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=3776AB&color=3B4252&logoColor=white&label=%20&style=for-the-badge)
+![](https://img.shields.io/static/v1?message=HTML5&logo=html5&labelColor=E34F26&color=3B4252&logoColor=white&label=%20&style=for-the-badge)
+![](https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=1572B6&color=3B4252&logoColor=white&label=%20&style=for-the-badge)
 <hr>
 <details>
   <summary>⚡️ Github stats</summary>
