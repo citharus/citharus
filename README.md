@@ -13,6 +13,6 @@ class Maarten(Human):
     self.languages: List[Language] = [Python, CSS3, HTML5, Markdown]
     self.programms: List[Programm] = [Pycharm, Neovim, Git, GitHub, Spotify, Linux] 
     self.projects: Dict[str, Projects] = {"active": CPAW, 
-                                          "inactive": Horarium, Dotfiles 
+                                          "inactive": Horarium, Dotfiles, 
                                           "archived": WhatShouldIRead}
 ```
