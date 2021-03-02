@@ -1,6 +1,7 @@
 ```python
 from typing import List, Dict
 
+from animals import Human
 from hobbies import Hobby, Calisthenics, Programming, CSGO
 from languages import Language ,Python, CSS3, HTML5, Markdown
 from programms import Programm, Pycharm, Neovim, Git, GitHub, Spotify, Linux
